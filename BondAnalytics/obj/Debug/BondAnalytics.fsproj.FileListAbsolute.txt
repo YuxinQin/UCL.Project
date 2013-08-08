@@ -1,0 +1,8 @@
+E:\Dissertation project\BondAnalytics\BondAnalytics\bin\Debug\BondAnalytics.XML
+E:\Dissertation project\BondAnalytics\BondAnalytics\bin\Debug\BondAnalytics.dll
+E:\Dissertation project\BondAnalytics\BondAnalytics\bin\Debug\BondAnalytics.pdb
+E:\Dissertation project\BondAnalytics\BondAnalytics\bin\Debug\FSharp.Core.dll
+E:\Dissertation project\BondAnalytics\BondAnalytics\bin\Debug\FSharp.Core.xml
+E:\Dissertation project\BondAnalytics\BondAnalytics\obj\Debug\BondAnalytics.fsprojResolveAssemblyReference.cache
+E:\Dissertation project\BondAnalytics\BondAnalytics\obj\Debug\BondAnalytics.dll
+E:\Dissertation project\BondAnalytics\BondAnalytics\obj\Debug\BondAnalytics.pdb

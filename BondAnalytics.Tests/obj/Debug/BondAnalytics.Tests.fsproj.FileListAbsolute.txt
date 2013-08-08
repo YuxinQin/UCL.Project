@@ -1,0 +1,13 @@
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\obj\Debug\BondAnalytics.Tests.fsprojResolveAssemblyReference.cache
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\BondAnalytics.Tests.XML
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\BondAnalytics.Tests.dll
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\BondAnalytics.Tests.pdb
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\BondAnalytics.dll
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\FSharp.Core.dll
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\nunit.framework.dll
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\BondAnalytics.pdb
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\BondAnalytics.xml
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\FSharp.Core.xml
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\nunit.framework.xml
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\obj\Debug\BondAnalytics.Tests.dll
+E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\obj\Debug\BondAnalytics.Tests.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\BondAnalytics.Tests.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-08-08" time="10:33:43">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.6407" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="QIN" user="Yuxin" user-domain="Qin" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\bin\Debug\BondAnalytics.Tests.dll" executed="True" result="Failure" success="False" time="0.004" asserts="0">
+    <results>
+      <test-suite type="TestFixture" name="Analytics_FixedCouponBond+Analytics_FixedCouponBond" executed="True" result="Failure" success="False" time="0.003" asserts="0">
+        <results>
+          <test-case name="Analytics_FixedCouponBond+Analytics_FixedCouponBond.bond_getYield" executed="True" result="Failure" success="False" time="0.000" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: 0.062080221915004286d
+  But was:  0.10000000000000001d
+]]></message>
+              <stack-trace><![CDATA[at fsunit.should[a,a](FSharpFunc`2 f, a x, Object y) in E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\fsunit.fs:line 12
+at Analytics_FixedCouponBond.Analytics_FixedCouponBond.bond_getYield() in E:\Dissertation project\BondAnalytics\BondAnalytics.Tests\Analytics_FixedCouponBond.fs:line 75
+]]></stack-trace>
+            </failure>
+          </test-case>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -40,3 +40,4 @@ msvs/hiredis/Release/
 msvs/ipch
 msvs/RedisServer.opensdf
 
+*.doc
